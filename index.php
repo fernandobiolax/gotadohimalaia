@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-	<meta charset="UTF-8">
-			<title>Gota do Himalaia &#8211; Gota do Himalaia</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8">
+<title>Gota do Himalaia &#8211; Gota do Himalaia</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name='robots' content='max-image-preview:large' />
 <title>Gota do Himalaia &#8211; Gota do Himalaia</title>
 <link rel='dns-prefetch' href='//s.w.org' />
